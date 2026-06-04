@@ -41,7 +41,7 @@ Please issue/pr if you have any updates :)
 
 [ExpoMamba](https://openreview.net/forum?id=X9L6PatYhH) (ICML ES-FoMo II)
 
-[ZigMa (ECCV 2024)](https://taohu.me/zigma/)
+[ZigMa](https://taohu.me/zigma/) (ECCV 2024)
 
 [I2I-Mamba: Multi-modal Medical Image Synthesis via Selective State Space Modeling](https://arxiv.org/abs/2405.14022) [[code](https://github.com/icon-lab/I2I-Mamba)]
 
@@ -51,6 +51,11 @@ Please issue/pr if you have any updates :)
 
 [MambaRoll: Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction](https://arxiv.org/abs/2412.09331) [[code](https://github.com/icon-lab/MambaRoll/)]
 
+[Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba](https://arxiv.org/abs/2407.09646) [[project](https://humansensinglab.github.io/Hamba/)] (NeurIPS 2024)
+
+[MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation](https://arxiv.org/abs/2509.00649) [[project](https://aviralchharia.github.io/MV-SSM/)] (CVPR 2025)
+
+[Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation](https://arxiv.org/abs/2605.25220) [[project](https://humansensinglab.github.io/MVCHead/)] (CVPR 2026)
 
 ## NLP
 
